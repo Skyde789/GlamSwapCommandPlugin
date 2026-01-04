@@ -1,0 +1,14 @@
+{
+  "Author": "Skyde789",
+  "Name": "GlamSwapCommand",
+  "Punchline": "Swap glams to your currently selected gearset!",
+  "Description": "Adds a command to swap glamours without needing to specify which gearset. Why this isn't in the base game, I don't know. Usage: /cgs <glamNumber>",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "glam",
+    "glamour",
+    "command",
+    "plugin",
+    "gearset"
+  ]
+}
