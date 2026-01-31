@@ -56,6 +56,12 @@ public sealed class Plugin : IDalamudPlugin
                 return;
             }
         }
+        else
+        {
+            ChatGui.Print("Glamour number parsing failed");
+            ChatGui.Print("Please input only numbers: '/cgs 4'");
+            return;
+        }
 
         unsafe
         {
